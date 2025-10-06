@@ -1,7 +1,9 @@
-## Hi there 👋
-
+## This is my coding profile 👇
+Currently working on a raspberry pi version of a streamdeck and goxlr\
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheJuice12)](https://github.com/anuraghazra/github-readme-stats)\
+Very grim score 😥
 <!--
-**TejusDantuluri/TejusDantuluri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TheJuice12/TheJuice12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
